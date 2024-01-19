@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  margin: 30px;
+  height: 250px;
+  width: 80%;
+  border: 2px solid black;
+  overflow: scroll;
+}
+
+li {
+  padding: 20px;
+  border: 1px solid black;
+  list-style-type: none;
+}
+
+button {
+  margin: 30px;
+  width: 80%;
+  height: 50px;
+}

@@ -1,0 +1,12 @@
+input {
+  margin: 5px;
+}
+
+.inp_error {
+  border: 1px solid red;
+  border-radius: 5px;
+}
+
+.inp_error:focus {
+  outline: 2px solid red;
+}
